@@ -84,53 +84,6 @@ anirudra = {
 </div>
 
 ---
-
-### 🐍 Contribution Snake
-
-> ⚠️ **To enable the snake:** Go to your repo → **Actions** tab → search **"Generate Snake"** → click it → **Run workflow**. Do this once after uploading. The snake auto-updates every day after that.
->
-> After running it once, **delete this note** and uncomment the image below by removing the `<!--` and `-->`.
-
-<!--
-<div align="center">
-  <img src="https://github.com/buildwithanirudra/buildwithanirudra/blob/output/github-contribution-grid-snake-dark.svg"/>
-</div>
--->
-
-**To generate the snake automatically every day, create this file in your repo:**
-
-```
-.github/workflows/snake.yml
-```
-
-**With this content:**
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  snake:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: buildwithanirudra
-          outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-> Then go to **Settings → Actions → General → Workflow permissions → Read and write** → Save → run the workflow once from the Actions tab.
-
----
-
 <div align="center">
 
 Visitor count &nbsp;
