@@ -18,7 +18,6 @@
 <a href="https://x.com/anirudra_gupta"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 <a href="https://instagram.com/buildwithanirudra"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://youtube.com/@buildwithanirudra"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href="http://infinityservicesproviders.com"><img src="https://img.shields.io/badge/Infinity%20Services-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
 
@@ -40,7 +39,7 @@ anirudra = {
     "orgs"        : [
                       "@Evo-labs-io ⚡",
                       "@zepper09 🔥",
-                      "Infinity Services ♾"
+                      "Infinity Services Providers ♾"
                     ],
     "building"    : "AI tools, voice assistants & startups",
     "ask_me"      : ["AI", "Python", "Next.js", "Crazy ideas 🚀"],
