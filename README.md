@@ -4,7 +4,7 @@
   <a href="https://x.com/anirudra_gupta"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://instagram.com/buildwithanirudra"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://youtube.com/@buildwithanirudra"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="http://infinityservicesproviders.com"><img src="https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://anirudra-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
@@ -13,12 +13,12 @@
 
 ```python
 anirudra = {
-    "name"        : "Anirudra Gupta",
-    "aka"         : "buildwithanirudra",
-    "location"    : "Belgaum, India 🇮🇳",
-    "motto"       : "Jack of all trades, master of none — but making crazy stuff 🚀",
+    "name"       : "Anirudra Gupta",
+    "aka"        : "buildwithanirudra",
+    "location"   : "Belgaum, India 🇮🇳",
+    "motto"      : "Jack of all trades, master of none — but making crazy stuff 🚀",
     "orgs"        : ["@Evo-labs-io", "@zepper09", "Infinity Services Providers"],
-    "currently"   : "Building AI tools, voice assistants & startups",
+    "currently"  : "Building AI tools, voice assistants & startups",
     "ask_me_about": ["AI", "Python", "Next.js", "Building cool things", "Tech in general"],
 }
 ```
