@@ -1,29 +1,54 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey!%20I'm%20Anirudra%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20crazy%20stuff%20in%20tech%20🚀&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=ANIRUDRA%20GUPTA&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%26%20Developer%20%7C%20Building%20crazy%20stuff%20in%20tech%20🚀&descAlignY=58&descSize=16&descColor=a0aec0" width="100%"/>
 
-<p align="center">
-  <a href="https://x.com/anirudra_gupta"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://instagram.com/buildwithanirudra"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://youtube.com/@buildwithanirudra"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://anirudra-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
+<br/>
+
+<div align="center">
+
+<!-- Typing SVG - Cool animated name/title -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Jack+of+all+trades+🃏;Master+of+making+crazy+stuff+🔥;Founder+%40+Infinity+Services+♾;Builder+%40+EVO+Labs+⚡;Builder+%40+Zepper+🔥;AI+%7C+Web+%7C+Whatever+it+takes+🛠)](https://git.io/typing-svg)
+
+<br/>
+
+<a href="https://anirudra-portfolio.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-anirudra--portfolio.netlify.app-7C3AED?style=for-the-badge&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<a href="https://x.com/anirudra_gupta"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://instagram.com/buildwithanirudra"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://youtube.com/@buildwithanirudra"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="http://infinityservicesproviders.com"><img src="https://img.shields.io/badge/Infinity%20Services-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+</div>
+
+<br/>
 
 ---
 
 ### 🧠 About me
 
+<img align="right" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="280px" style="border-radius:12px"/>
+
 ```python
 anirudra = {
-    "name"       : "Anirudra Gupta",
-    "aka"        : "buildwithanirudra",
-    "location"   : "Belgaum, India 🇮🇳",
-    "motto"      : "Jack of all trades, master of none — but making crazy stuff 🚀",
-    "orgs"        : ["@Evo-labs-io", "@zepper09", "Infinity Services Providers"],
-    "currently"  : "Building AI tools, voice assistants & startups",
-    "ask_me_about": ["AI", "Python", "Next.js", "Building cool things", "Tech in general"],
+    "name"        : "Anirudra Gupta",
+    "aka"         : "buildwithanirudra",
+    "location"    : "Belgaum, India 🇮🇳",
+    "portfolio"   : "anirudra-portfolio.netlify.app",
+    "motto"       : "Jack of all trades, master of none 🃏",
+    "orgs"        : [
+                      "@Evo-labs-io ⚡",
+                      "@zepper09 🔥",
+                      "Infinity Services ♾"
+                    ],
+    "building"    : "AI tools, voice assistants & startups",
+    "ask_me"      : ["AI", "Python", "Next.js", "Crazy ideas 🚀"],
+    "fun_fact"    : "I turn coffee ☕ into code and code into products",
 }
 ```
 
-<img align="right" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="300px"/>
+<br clear="right"/>
 
 ---
 
@@ -31,46 +56,86 @@ anirudra = {
 
 **Languages:**
 
-[![My Skills](https://skillicons.dev/icons?i=py,ts,js,bash&perline=8)](#)
+[![Skills](https://skillicons.dev/icons?i=py,ts,js,bash&perline=8)](#)
 
 **Web & Frameworks:**
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,html,css,express,firebase&perline=8)](#)
+[![Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,html,css,express,firebase&perline=8)](#)
 
-**AI / ML Tools:**
+**AI / ML:**
 
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,opencv&perline=8)](#)
+[![Skills](https://skillicons.dev/icons?i=tensorflow,opencv&perline=8)](#)
 
 **Dev Tools:**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,linux&perline=8)](#)
+[![Skills](https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,linux&perline=8)](#)
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=buildwithanirudra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=buildwithanirudra&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=buildwithanirudra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA" height="160"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=buildwithanirudra&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" height="160"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=buildwithanirudra&theme=react-dark&area=true&hide_border=true#gh-dark-mode-only"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=buildwithanirudra&theme=react-dark&area=true&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff"/>
+</div>
 
 ---
 
-### 🐍 Watch the snake eat my contributions
+### 🐍 Contribution Snake
 
-<p align="center">
+> ⚠️ **To enable the snake:** Go to your repo → **Actions** tab → search **"Generate Snake"** → click it → **Run workflow**. Do this once after uploading. The snake auto-updates every day after that.
+>
+> After running it once, **delete this note** and uncomment the image below by removing the `<!--` and `-->`.
+
+<!--
+<div align="center">
   <img src="https://github.com/buildwithanirudra/buildwithanirudra/blob/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+</div>
+-->
+
+**To generate the snake automatically every day, create this file in your repo:**
+
+```
+.github/workflows/snake.yml
+```
+
+**With this content:**
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: buildwithanirudra
+          outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+> Then go to **Settings → Actions → General → Workflow permissions → Read and write** → Save → run the workflow once from the Actions tab.
 
 ---
 
-<p align="center">
-  Visitor count &nbsp;
-  <img src="https://profile-counter.deno.dev/buildwithanirudra/count.svg"/>
-</p>
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+Visitor count &nbsp;
+<img src="https://profile-counter.deno.dev/buildwithanirudra/count.svg"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
