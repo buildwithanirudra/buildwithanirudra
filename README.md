@@ -18,7 +18,7 @@ anirudra = {
     "location"    : "Belgaum, India 🇮🇳",
     "motto"       : "Jack of all trades, master of none — but making crazy stuff 🚀",
     "orgs"        : ["@Evo-labs-io", "@buildmystartup-co"],
-    "currently"   : "Building AI tools, voice assistants & startups",
+    "currently"   : "🚀 Founder of BuildMyStartup — helping founders turn ideas into real businesses through product development, growth systems, and startup execution.",
     "ask_me_about": ["AI", "Python", "Next.js", "Building cool things", "Tech in general"],
 }
 ```
